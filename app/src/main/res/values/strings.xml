@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dish-It</string>
+    <string-array name="userType_spinner">
+        <item>Select one</item>
+        <item>Customer</item>
+        <item>Chef</item>
+        <item>Delivery Agent</item>
+        <item>Admin</item>
+
+    </string-array>
+</resources>
